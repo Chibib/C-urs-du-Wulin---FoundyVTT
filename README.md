@@ -29,9 +29,13 @@ Voici des visuels des trois cadres :
 
 ![image](https://github.com/user-attachments/assets/823f2875-53d7-43d0-8b7c-e5e5e1c2cd71)
 
+
+![image](https://github.com/user-attachments/assets/05f11e2d-5301-4d23-8558-631f77d1f724)
+
+
 ![image](https://github.com/user-attachments/assets/99a21266-dc78-4d65-98ca-7f3fdc4f2e50)
 
-
+N'hésitez pas à soutenir cet excellent jeu ! Vous pouvez [mettre 5 étoiles, l'acheter](https://khelren.itch.io/coeurs-wulin) ou [offrir un café à Khelren](https://ko-fi.com/khelren)
 
 
 ## Installation
@@ -42,13 +46,13 @@ Discord : chibimiko
 Mastodon : https://ludosphere.fr/@Chibi
 
 ## Fonctionnalités
-Livrets de personnages pour les trois cadres
-Feuille pour les PNJ
-Compendium de toutes les manoeuvres
-Création de personnage détailllée
-Les rôles avec des mécaniques uniques implemetés
-Le texte comprend les objets pour être glissés et déposés 
-Tables aléatoires pour le générateur de cour
+- Livrets de personnages pour les trois cadres
+- Feuille pour les PNJ
+- Compendium de toutes les manoeuvres
+- Création de personnage détailllée
+- Les rôles avec des mécaniques uniques implemetés
+- Le texte comprend les objets pour être glissés et déposés
+- Tables aléatoires pour le générateur de cour
 
 ## Prérequis
 Il est nécessaire d'avoir installé le système [Powered by the Apocalypse d'Asacolips](https://github.com/asacolips-projects/pbta) 
