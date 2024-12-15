@@ -1,0 +1,169 @@
+{
+  "id": "aides-de-jeu-coeurs-de-wulin",
+  "title": "Aides de jeu Coeurs de Wulin",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Chibi",
+      "flags": {}
+    }
+  ],
+
+  "esmodules": [
+    "coeursduwulin.js"
+  ],
+  "styles":[
+      "styles/coeursduwulin-sheet.css"
+   ],
+  "packs": [
+    {
+      "name": "generateur-de-cour",
+      "label": "Générateur de cour",
+      "path": "packs/generateur-de-cour",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "wuxia",
+      "label": "Wuxia",
+      "path": "packs/wuxia",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "xianxia",
+      "label": "Xianxia",
+      "path": "packs/xianxia",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "cour",
+      "label": "Cour",
+      "path": "packs/cour",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "aides-de-jeu",
+      "label": "Aides de jeu",
+      "path": "packs/aides-de-jeu",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    }
+  ]
+}{
+  "id": "aides-de-jeu-coeurs-de-wulin",
+  "title": "Aides de jeu Coeurs de Wulin",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Chibi",
+      "flags": {}
+    }
+  ],
+
+  "esmodules": [
+    "coeursduwulin.js"
+  ],
+  "styles":[
+      "styles/coeursduwulin-sheet.css"
+   ],
+  "packs": [
+    {
+      "name": "generateur-de-cour",
+      "label": "Générateur de cour",
+      "path": "packs/generateur-de-cour",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "wuxia",
+      "label": "Wuxia",
+      "path": "packs/wuxia",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "xianxia",
+      "label": "Xianxia",
+      "path": "packs/xianxia",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "cour",
+      "label": "Cour",
+      "path": "packs/cour",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    },
+    {
+      "name": "aides-de-jeu",
+      "label": "Aides de jeu",
+      "path": "packs/aides-de-jeu",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pbta",
+      "flags": {}
+    }
+  "url": "https://github.com/Chibib/Coeurs-du-Wulin-FoundyVTT",
+  "manifest": "",
+  "download": "
+}
