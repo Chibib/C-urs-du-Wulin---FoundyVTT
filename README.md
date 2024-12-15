@@ -5,33 +5,38 @@ Ce module permet de jouer à Coeurs du Wulin sur Foundry VTT et nécessite l'ins
 Vous pouvez acheter Coeurs du Wulin ici : https://khelren.itch.io/coeurs-wulin
 
 Les trois cadres de jeu sont implémentés dans la module. Pour créer une fiche de personnage, on choisit quel type d'acteur selon le cadre : *Personnage* pour du Wuxia, *xianxia* pour les livrets xianxia et *cour* pour les livrets du cadre cour.
+
 ![image](https://github.com/user-attachments/assets/84e3af2a-ed29-4db9-9c1a-bb763098e131)
 
 
 Ensuite, on choisit le livret et un pop up nous montrera les options de départ de ce livret.
-![2646a8311f6f1dab0ac992a793e92f88.png](:/41246fe239604112a3e27ff816901969)
+![image](https://github.com/user-attachments/assets/bbfa19d2-bc54-46f6-bae2-ca53d339768c)
+
 
 On peut clic sur l'oeil à côté du livret pour consulter son contenu. On peut glisser et déposer les objets du livret.
 
-![e19266a2dff00b6b700f90525cd3b546.png](:/ccb5f956979740679efaf9acc0258cc5)
+![image](https://github.com/user-attachments/assets/bacf5b9e-37c2-4923-bba5-f0ff635d916c)
+
 
 On peut également consulter tout le procès d'une création de personnage grâce aux journaux. Je conseille **d'importer uniquement les journaux** *Aides de jeu* dans le compédium.
-![43385e1ece7295aabab8f45832e0565d.png](:/628f6bbcf05941e8818c093f98ebede4)
+![image](https://github.com/user-attachments/assets/9e6bf273-e387-4f1d-b736-7c50d7ceb833)
+
 J'ai créé une *aide de jeu éléments*, personnellement, je l'ai affichée sur le scène principale en tant que tuile.
-![56ff98619767e2d11c3080a44900fd3f.png](:/ffc1092f2ceb454f8ab8126f8a9d2e04)
+![image](https://github.com/user-attachments/assets/e8fbcf5c-4a1e-4011-a742-619b58fb373f)
+
 
 Voici des visuels des trois cadres :
 
-![18b05880855f720a57406542399ac167.png](:/e67b67699cca45b3940fb169ce073f8a)
+![image](https://github.com/user-attachments/assets/823f2875-53d7-43d0-8b7c-e5e5e1c2cd71)
 
-![b9b94b5a319e72415d89fb2d09f20477.png](:/cc75f377f46c4ae79b89cc17c7dbd636)
+![image](https://github.com/user-attachments/assets/99a21266-dc78-4d65-98ca-7f3fdc4f2e50)
 
-![49fd484f585c24742b9a7e4fd795dc1d.png](:/5a7381b9b33645228a9e52a5314e81bc)
+
 
 
 ## Installation
 Utiliser ce lien dans la rubique modules de FoundryVTT
-
+https://github.com/Chibib/Coeurs-du-Wulin-FoundyVTT
 Si vous avez des questions, n'hésitez pas à me contacter 
 Discord : chibimiko 
 Mastodon : https://ludosphere.fr/@Chibi
