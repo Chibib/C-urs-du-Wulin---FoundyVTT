@@ -1,4 +1,4 @@
-Module Coeurs du Wulin pour Foundry VTT
+## Module Coeurs du Wulin pour Foundry VTT
 
 Ce module permet de jouer à Coeurs du Wulin sur Foundry VTT et nécessite l'installation du système [Powered by the Apocalypse d'Asacolips](https://github.com/asacolips-projects/pbta).
 
