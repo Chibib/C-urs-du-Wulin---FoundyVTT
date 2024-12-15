@@ -40,7 +40,7 @@ N'hésitez pas à soutenir cet excellent jeu ! Vous pouvez [mettre 5 étoiles, l
 
 ## Installation
 Utiliser ce lien dans la rubique modules de FoundryVTT
-https://github.com/Chibib/Coeurs-du-Wulin-FoundyVTT
+https://github.com/Chibib/Coeurs-du-Wulin-FoundyVTT/releases/latest/download/module.json
 Si vous avez des questions, n'hésitez pas à me contacter 
 Discord : chibimiko 
 Mastodon : https://ludosphere.fr/@Chibi
