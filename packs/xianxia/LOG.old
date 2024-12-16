@@ -1,0 +1,5 @@
+2024/12/16-09:33:16.278925 7f2e657bc700 Delete type=3 #1
+2024/12/16-09:33:16.285332 7f2e64fbb700 Level-0 table #5: started
+2024/12/16-09:33:16.289286 7f2e64fbb700 Level-0 table #5: 109306 bytes OK
+2024/12/16-09:33:16.290355 7f2e64fbb700 Delete type=0 #3
+2024/12/16-09:33:16.290507 7f2e64fbb700 Manual compaction at level-0 from '!folders!35OQabB5dD0FMZcr' @ 72057594037927935 : 1 .. '!items!ydWgQihudCZrNZsA' @ 0 : 0; will stop at (end)
